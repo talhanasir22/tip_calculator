@@ -8,11 +8,6 @@ A simple and intuitive Flutter application that helps you calculate tips and div
 - **Currency Customization:** Choose your preferred currency for calculations.
 - **User-Friendly Interface:** Intuitive design for a seamless user experience.
 
-## Screenshots
-*Add screenshots of your app here.*
-
-## Getting Started
-
 ### Prerequisites
 To run this application, you need:
 - Flutter SDK installed on your system.
