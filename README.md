@@ -17,9 +17,3 @@ A simple and intuitive Flutter application that helps you calculate tips and div
 To run this application, you need:
 - Flutter SDK installed on your system.
 - An IDE (e.g., Android Studio, VS Code) set up for Flutter development.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd tip_calculator
